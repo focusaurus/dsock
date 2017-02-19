@@ -14,7 +14,7 @@ Expires: August 22, 2017
 Abstract
 
    This memo describes new API for network sockets.  Compared to classic
-   BSD socket API the new API is much more leightweight and flexible.
+   BSD socket API the new API is much more lightweight and flexible.
    Its primary focus is on easy composability of network protocols.
 
 Status of This Memo
